@@ -1,3 +1,7 @@
+# Encrypts and decrypts a text.
+# Try with the following line:
+# L'yh ehhq wuBlq' wr fdoo / L'yh ehhq rq pB rzq iru orqj hqrxjk / PdBeh Brx fdq vkrz ph krz wr oryh, pdBeh
+
 import getpass
 import string
 
